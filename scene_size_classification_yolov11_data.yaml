@@ -1,0 +1,9 @@
+#使用绝对路径
+train: D:/Python/Text/forest_fire_size_classification_network/ultralytics-main/mydata/images/train
+val: D:/Python/Text/forest_fire_size_classification_network/ultralytics-main/mydata/images/val
+
+# number of classes
+nc: 2
+
+# class names
+names: ['sky', 'trunk']
